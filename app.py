@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Rental Deal Analyzer", page_icon="🏠")
 
-st.title("🏠 Rental Deal Analyzer")
+st.title("🏠 3B Deal Analyzer")
 st.write("Calculate the ROI and Cash Flow of a property to see if it's a good investment.")
 
 # --- SIDEBAR INPUTS ---
